@@ -2,7 +2,7 @@
 
 ##### The United States is a country that covers 50 states along with North America, Alaska in the northwest. United states also known as the world’s market leader where most of the multi-national companies have its headquarters. More business leads to more population around the globe. In the U.S. many students come from different countries to pursue their higher studies and find a job opportunity, thus leads to housing crisis in the United States. With constrained dataset and information includes, a reasonable and composite data pre-processing, the inventive component designing technique is analyzed in this paper. The major focus on housing prices of the U.S., by the power of prediction with Regression modeling, considering the amenities.
 
-<center>Regressor model used in the analysis </center>
+<center>Regressor models used in the analysis </center>
 
 | Model  | MAE | MSE | RMSE | Accuracy
 | ------------- | ------------- |  ------------- |  ------------- | ------------- |
